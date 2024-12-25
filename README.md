@@ -26,3 +26,9 @@ brew install langgraph-cli
 
 langgraph up
 ```
+
+## Service test
+
+```bash
+npx tsx src/examples/processesListExample.ts
+```
