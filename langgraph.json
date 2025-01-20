@@ -9,7 +9,13 @@
     "esg_agent": "./src/esg_agent.ts:graph",
     "kg_textbook_agent": "./src/kg_textbook_agent.ts:graph",
     "esg_search_agent": "./src/esg_search_agent.ts:graph",
-    "build_processes_list": "./src/lca_agents/build_processes_list.ts:graph"
+    "build_processes_list": "./src/lca_agents/build_processes_list.ts:graph",
+    "combined_product_analysis": "./src/lca_agents/combined_product_analysis.ts:graph",
+    "get_product_basic_information": "./src/lca_agents/get_product_basic_information.ts:graph",
+    "get_product_component": "./src/lca_agents/get_product_component.ts:graph",
+    "get_related_supplier": "./src/lca_agents/get_related_supplier.ts:graph",
+    "get_technology_information": "./src/lca_agents/get_technology_information.ts:graph",
+    "build_emission_sources": "./src/lca_agents/build_emission_sources.ts:graph"
   },
   "env": ".env"
 }
